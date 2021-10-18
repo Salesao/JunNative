@@ -1,8 +1,8 @@
 import {createAsyncThunk, createSlice} from '@reduxjs/toolkit';
 
 //ссылки на данные с сервера
-const uriComments = 'https://my-json-server.typicode.com/Salesao/FakeJson/comments/'
-const uriPosts = 'https://my-json-server.typicode.com/Salesao/FakeJson/posts/'
+const uriPosts = 'https://my-json-server.typicode.com/Salesao/JunNative/posts/'
+const uriComments = 'https://my-json-server.typicode.com/Salesao/JunNative/comments/'
 
 //методы для получения постов и комментарие
 export const fetchPosts = createAsyncThunk(
