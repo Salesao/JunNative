@@ -1,0 +1,46 @@
+{
+    "posts":[
+        {
+            "id":"1",
+            "title":"POST 1",
+            "body":"Post 1 comment"
+        },
+        {
+            "id":"2",
+            "title":"POST 2",
+            "body":"Post 2 comment"
+        }
+    ],
+    "comments":[
+        {
+            "id":"52347",
+            "postId":"1",
+            "text":"Cool Post"
+        },
+        {
+            "id":"5234988887",
+            "postId":"1",
+            "text":"Cool Post1"
+        },
+        {
+            "id":"5237747",
+            "postId":"1",
+            "text":"Cool Post2"
+        },
+        {
+            "id":"5235747",
+            "postId":"2",
+            "text":"Post cool"
+        },
+        {
+            "id":"54988887",
+            "postId":"2",
+            "text":"Post cool 1"
+        },
+        {
+            "id":"523757747",
+            "postId":"2",
+            "text":"Post cool 2"
+        }
+    ]
+}
